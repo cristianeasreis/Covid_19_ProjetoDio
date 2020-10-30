@@ -1,2 +1,12 @@
-# Covid_19_ProjetoDio
-React Web Developer
+# **Covid_19_ProjetoDio**
+
+## ** React Web Developer**
+
+###  **:tw-1f30d: Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo:tw-1f30d:**
+
+"Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo 
+criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada 
+no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. 
+Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store."
+
+Desenvolvido Por** Bruno Carneiro** Dio,
