@@ -1,4 +1,4 @@
-# ## # **Covid_19_ProjetoDio**
+# **Covid_19_ProjetoDio**
 
 ##### ** React Web Developer**
 
